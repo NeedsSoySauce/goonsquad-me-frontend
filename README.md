@@ -2,6 +2,18 @@
 
 Frontend using React that (hopefully) will allow goons to get up to much shenanigans.
 
+# Deployment
+
+Configure the following environment variables:
+
+```
+REACT_APP_API_URL=""
+REACT_APP_AUTH0_DOMAIN=""
+REACT_APP_AUTH0_CLIENT_ID=""
+REACT_APP_AUTH0_AUDIENCE=""
+REACT_APP_AUTH0_SCOPES=""
+```
+
 # Attribution
 
 Favicons

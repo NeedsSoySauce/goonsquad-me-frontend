@@ -23,9 +23,7 @@ const Games = () => {
                 });
             })
         );
-    });
-
-    console.log(state);
+    }, []);
 
     return (
         <Skeleton isLoaded={!isLoading}>
